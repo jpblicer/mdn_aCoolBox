@@ -19,4 +19,5 @@ html {
     box-shadow: 1px 1px 1px #000,
                 inset 2px 3px 5px #fff,
                 inset -2px -3px 5px #000;
+    background: linear-gradient(to top left, rgba(0,0,.2), rgba(255,0, 1) 30%);
   }
